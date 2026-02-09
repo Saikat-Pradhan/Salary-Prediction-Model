@@ -19,14 +19,6 @@ Input fields:
 Output:
 - Predicted Salary
 
-📂 Project Structure
-├── app.py                    # Streamlit web app
-├── model.pkl                 # Trained machine learning model
-├── Package_Prediction.ipynb  # Notebook used to train the model
-├── Salary_Data.csv           # Dataset
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
-
 ## 🧠 Technologies Used
 
 - Python 🐍
