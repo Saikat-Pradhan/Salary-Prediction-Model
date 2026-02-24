@@ -1,4 +1,13 @@
-# Salary Prediction Web App
+# 💰 Salary Prediction Web App
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-DataAnalysis-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-NumericalComputing-blue?logo=numpy)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Regression](https://img.shields.io/badge/Model-Regression-yellow)
+![Deployment](https://img.shields.io/badge/Deployment-StreamlitCloud-success)
 
 A smart machine learning–based web application that predicts salary based on years of experience and age.
 Built using Python, Scikit-learn, and Streamlit, and deployed for anyone to use online!
